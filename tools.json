@@ -1,0 +1,37 @@
+{
+  "name": "Rajbhasha Hindi OCR and Conversion Tools",
+  "url": "https://rajbhasha.net/",
+  "description": "Public Hindi computing tools for Krutidev to Unicode conversion, Unicode to Krutidev conversion, Hindi OCR, Hindi typing, spell checking, and official drafting helpers.",
+  "mcp": {
+    "endpoint": "https://rajbhasha.net/mcp",
+    "manifest": "https://rajbhasha.net/.well-known/mcp.json",
+    "openapi": "https://rajbhasha.net/mcp/openapi.yaml"
+  },
+  "tools": [
+    {
+      "name": "Krutidev to Unicode Converter",
+      "url": "https://rajbhasha.net/unicode-krutidev-converter/",
+      "keywords": ["krutidev to unicode", "unicode to krutidev", "kruti dev 010", "mangal unicode", "hindi font converter"]
+    },
+    {
+      "name": "All Hindi Fonts Converter",
+      "url": "https://rajbhasha.net/all-hindi-fonts-converter/",
+      "keywords": ["devlys to unicode", "shusha to unicode", "chanakya to unicode", "old hindi font converter"]
+    },
+    {
+      "name": "Hindi OCR Image to Text",
+      "url": "https://rajbhasha.net/ocr-image-to-text/",
+      "keywords": ["hindi ocr", "hindi image to text", "extract hindi text from image"]
+    },
+    {
+      "name": "Hindi Typing with English Keyboard",
+      "url": "https://rajbhasha.net/hindi-typing-with-english-keyboard/",
+      "keywords": ["english to hindi typing", "hinglish to hindi", "unicode hindi typing"]
+    },
+    {
+      "name": "Kruti Dev Hindi Typing Practice",
+      "url": "https://rajbhasha.net/krutidev-hindi-typing/",
+      "keywords": ["kruti dev typing", "hindi typing practice", "krutidev keyboard"]
+    }
+  ]
+}
